@@ -17,7 +17,7 @@
 
 <AnchorPane id="AnchorPane" styleClass="mainFxmlClass" xmlns="http://javafx.com/javafx/25" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.java.edu.ingsoft.colegio.gotitas.controller.LoginController">
     <stylesheets>
-        <URL value="@/main/resources/css/login-view.css" />
+        <URL value="@/main/resources/css/styles.css" />
     </stylesheets>
    <children>
       <GridPane alignment="CENTER" styleClass="test-class" stylesheets="@../css/login-view.css" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
